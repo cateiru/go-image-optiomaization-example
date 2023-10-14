@@ -1,1 +1,5 @@
-# go-image-optiomaization-example
+# Go IMAGE Optimization Example
+
+## LICENSE
+
+[MIT](./LICENSE)
